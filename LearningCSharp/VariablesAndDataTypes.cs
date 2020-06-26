@@ -78,12 +78,7 @@ namespace LearningCSharp
             z = 42;
         }
 
-
-
-
-
-
-        public void DoublIt(int x)
+        public void DoubleIt(int x)
         {
             x = x + x;
         }
